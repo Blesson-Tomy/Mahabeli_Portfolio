@@ -82,6 +82,7 @@ h4{
 
 .left img{
     height: 600px;
+    padding-left: 50%;
 
 }
 
@@ -271,7 +272,7 @@ a{
 }
 
 a:hover{
-    color: rgba(0, 0, 0, 0.072);
+    color: rgba(87, 86, 6, 0.809);
 }
 
 h6{
@@ -283,10 +284,6 @@ h6{
 .container1{
     display: inline-flex;
 }
-iframe{
-    padding-top: 100px;
-    
-}
 
 #space{
     width: 700px;
@@ -294,7 +291,15 @@ iframe{
 
 
 
+.footer{
+   border-top: solid grey ;
+   padding-top: 0%;
+   text-align: center;
+
+}
 
 
 
-
+.imge{
+   size-adjust: 5%;
+}
