@@ -285,15 +285,18 @@ h6{
     display: inline-flex;
 }
 
-#space{
+#spac{
     width: 700px;
+    text-align: center;
+    justify-content: center;
+    
 }
 
 
 
 .footer{
    border-top: solid grey ;
-   padding-top: 0%;
+   margin-bottom: -100%;
    text-align: center;
 
 }
@@ -303,3 +306,6 @@ h6{
 .imge{
    size-adjust: 5%;
 }
+
+
+
