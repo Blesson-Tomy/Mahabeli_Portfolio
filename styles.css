@@ -15,6 +15,11 @@ body{
     margin: 0px;
     
 }
+footer{
+   display: flex;
+   justify-content: center;
+   flex-direction: column;
+}
 
 ul li{
     list-style: none;
@@ -309,19 +314,15 @@ h6{
     flex-direction: column;
     margin-top: 50px;
 }
-.footer{
-      display: flex;
-      justify-content: baseline;
-      margin-top: 50px;
-}
+
 .contact{
       height: max-content;
       max-width: 980px;
       justify-content: center;
+      display: flex;
+      flex-direction: column;
 }
-.footer{
-   height: 300px;
-}
+
 .right{
       padding-top: 0px;
 }
